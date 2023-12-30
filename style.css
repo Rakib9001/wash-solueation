@@ -37,10 +37,11 @@ nav a{
 
 .header{
     
-    background-color: rgb(157, 235, 252);
+    background-color: rgb(144, 233, 253);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 100%;
+    padding: 0 10%;
     
 }
  .bannera{
@@ -101,7 +102,16 @@ margin-bottom: 20px;
     padding: 200px 100px;
     border-radius: 10px 0;
     background: rgb(155, 252, 191);
-    margin: 140px 180px;
+    margin: 100px 30px;
+}
+.abouta{
+    padding: 100% 10%;
+    border-radius: 10px 0;
+    background: rgb(190, 196, 197);
+    margin: 10px 250px;
+}
+.back{
+    background-color: rgb(32, 29, 50);
 }
 .section-title{
     color:(#181818);
