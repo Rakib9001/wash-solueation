@@ -4,6 +4,10 @@ body {
 .bodya{
     background-color: #ffaeed;
 }
+.problem{
+    color: #fd0404;
+    
+}
 nav {
     display: flex;
     justify-content: space-between;
