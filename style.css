@@ -1,6 +1,9 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+.bodya{
+    background-color: #ffaeed;
+}
 nav {
     display: flex;
     justify-content: space-between;
@@ -38,10 +41,10 @@ nav a{
 .header{
     
     background-color: rgb(144, 233, 253);
-    background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 100%;
     padding: 0 10%;
+    border-radius: 50px 5px;
     
 }
  .bannera{
@@ -100,18 +103,9 @@ margin-bottom: 20px;
 
 .about{
     padding: 200px 100px;
-    border-radius: 10px 0;
+    border-radius: 50px 5px;
     background: rgb(155, 252, 191);
     margin: 100px 30px;
-}
-.abouta{
-    padding: 100% 10%;
-    border-radius: 10px 0;
-    background: rgb(190, 196, 197);
-    margin: 10px 250px;
-}
-.back{
-    background-color: rgb(32, 29, 50);
 }
 .section-title{
     color:(#181818);
@@ -143,3 +137,13 @@ margin: 35px 48px;
 .about-info{
     text-align: center;
 }
+=============== dyeing 
+.back{
+    background-color: rgb(32, 29, 50);}
+
+.abouta{
+        padding: 100% 10%;
+        border-radius: 10px 0;
+        background: rgb(190, 196, 197);
+        margin: 10px 250px;
+    }
