@@ -168,11 +168,40 @@ margin: 35px 48px;
     border-radius: 50px 5px;
     margin: 100px 30px;
     }
+    .dying2{
+        text-align: center;
+        border-color: ;
+        background-color: #c4fe04;
+        border-radius: 50px 0px;
+        margin: 30px;
+        }
+    .dying3{
+        text-align: center;
+        border-color: ;
+        background-color: #04fe36;
+        border-radius: 50px 0px;
+        margin: 30px;
+        }
      
     .dying4{
         text-align: center;
         border-color: ;
         background-color: #c4fe04;
         border-radius: 50px 0px;
+        margin: 30px;
         }
-     
+        .dying5{
+            text-align: center;
+            border-color: ;
+            background-color: #c4fe04;
+            border-radius: 50px 0px;
+            margin: 30px;
+            }
+    .dying6{
+        text-align: center;
+        border-color: ;
+        background-color: #c4fe04;
+        border-radius: 50px 0px;
+        margin: 30px;
+        }
+                 
