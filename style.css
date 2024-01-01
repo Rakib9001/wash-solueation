@@ -140,20 +140,30 @@ margin: 35px 48px;
 }
 .about-info{
     text-align: center;
+} 
+.dying2{
+    padding: 20px 10px;
+    border-radius: 5px 50px;
+    background: rgb(225, 225, 225);
+    margin: 30px 200px;
+     
 }
-=============== dyeing 
-.back{
-    background-color: rgb(109, 99, 164);}
+.dyeing1{
+    background-color: rgb(213, 208, 245);
+    color: #fd04e4;
+    padding: 10px;
+    text-align: center;
+     box-shadow: 10px 10px rgb(106, 120, 125);
+     border-radius: 0px 20px;
+}
+.dying{
+    background-color: rgb(213, 208, 245);
+    
+}
+     
 
-.{
-        padding: 100% 45%;
-        border-radius: 10px 10px;
-        background: rgb(209, 238, 243);
-        margin: 10px 250px;
-    }
  body img{
     padding: 200px 100px;
     border-radius: 50px 5px;
-    
     margin: 100px 30px;
     }
