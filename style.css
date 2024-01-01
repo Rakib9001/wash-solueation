@@ -158,12 +158,17 @@ margin: 35px 48px;
 }
 .dying{
     background-color: rgb(213, 208, 245);
-    
-}
-     
-
- body img{
+    }
+  body img{
     padding: 200px 100px;
     border-radius: 50px 5px;
     margin: 100px 30px;
+    }
+    .dying3{
+        background-color: #f7cbf1;
+        padding: 100px 100px;
+        margin: 50px;
+        text-align: center;
+        border-radius: 0px 30px ;
+        box-shadow: 10px 10px black;
     }
