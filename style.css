@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 .bodya{
-    background-color: #ffaeed;
+    background-color: #a9a3a8;
 }
 .problem{
     color: #fd0404;
@@ -44,7 +44,7 @@ nav a{
 
 .header{
     
-    background-color: rgb(144, 233, 253);
+    background-color: rgb(87, 121, 128);
     background-position: bottom right;
     background-size: 100%;
     padding: 0 10%;
@@ -108,7 +108,7 @@ margin-bottom: 20px;
 .about{
     padding: 200px 100px;
     border-radius: 50px 5px;
-    background: rgb(155, 252, 191);
+    background: rgb(111, 152, 126);
     margin: 100px 30px;
 }
 .section-title{
@@ -154,7 +154,7 @@ margin: 35px 48px;
 }
 .dyeing1{
     background-color: rgb(213, 208, 245);
-    color: #fd04e4;
+    color: #a0749c;
     padding: 10px;
     text-align: center;
      box-shadow: 10px 10px rgb(106, 120, 125);
@@ -171,14 +171,14 @@ margin: 35px 48px;
     .dying2{
         text-align: center;
         border-color: ;
-        background-color: #c4fe04;
+        background-color: #c2c9d8;
         border-radius: 50px 0px;
         margin: 30px;
         }
     .dying3{
         text-align: center;
         border-color: ;
-        background-color: #04fe36;
+        background-color: #849a89;
         border-radius: 50px 0px;
         margin: 30px;
         }
@@ -186,21 +186,21 @@ margin: 35px 48px;
     .dying4{
         text-align: center;
         border-color: ;
-        background-color: #c4fe04;
+        background-color: #b6c099;
         border-radius: 50px 0px;
         margin: 30px;
         }
         .dying5{
             text-align: center;
             border-color: ;
-            background-color: #c4fe04;
+            background-color: #737764;
             border-radius: 50px 0px;
             margin: 30px;
             }
     .dying6{
         text-align: center;
         border-color: ;
-        background-color: #c4fe04;
+        background-color: #55594a;
         border-radius: 50px 0px;
         margin: 30px;
         }
