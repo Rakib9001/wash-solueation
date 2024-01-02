@@ -154,7 +154,9 @@ margin: 35px 48px;
 }
 .dyeing1{
     background-color: rgb(76, 112, 76);
-    color: #a795eb;
+    color: #e8f804;
+    text-shadow: 3px 4px #463f57;
+    
     padding: 10px;
     text-align: center;
      box-shadow: 10px 10px rgb(92, 88, 91);
