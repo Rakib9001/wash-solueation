@@ -143,7 +143,7 @@ margin: 35px 48px;
     
 } 
 .head1{
-    background-color: #757575;
+    background-color: #9fb7bd;
 }
 .dying2{
     padding: 20px 10px;
@@ -153,11 +153,11 @@ margin: 35px 48px;
      
 }
 .dyeing1{
-    background-color: rgb(213, 208, 245);
-    color: #a0749c;
+    background-color: rgb(76, 112, 76);
+    color: #a795eb;
     padding: 10px;
     text-align: center;
-     box-shadow: 10px 10px rgb(106, 120, 125);
+     box-shadow: 10px 10px rgb(92, 88, 91);
      border-radius: 0px 20px;
 }
 .dying{
@@ -169,46 +169,52 @@ margin: 35px 48px;
     margin: 100px 30px;
     }
     .dying2{
+        box-shadow: 10px 10px #43393b;
         text-align: center;
         border-color: ;
-        background-color: #c2c9d8;
+        background-color: #88a8ec;
         border-radius: 50px 0px;
         margin: 30px;
         }
-    .dying3{
-        text-align: center;
-        border-color: ;
-        background-color: #849a89;
-        border-radius: 50px 0px;
-        margin: 30px;
-        }
+        .dying3{
+            box-shadow: 10px 10px #43393b;
+            text-align: center;
+            border-color: ;
+            background-color: #88a8ec;
+            border-radius: 50px 0px;
+            margin: 30px;
+            }
+            .dying4{
+                box-shadow: 10px 10px #43393b;
+                text-align: center;
+                border-color: ;
+                background-color: #88a8ec;
+                border-radius: 50px 0px;
+                margin: 30px;
+                }
+                .dying5{
+                    box-shadow: 10px 10px #43393b;
+                    text-align: center;
+                    border-color: ;
+                    background-color: #88a8ec;
+                    border-radius: 50px 0px;
+                    margin: 30px;
+                    }
+                    .dying6{
+                        box-shadow: 10px 10px #43393b;
+                        text-align: center;
+                        border-color: ;
+                        background-color: #88a8ec;
+                        border-radius: 50px 0px;
+                        margin: 30px;
+         
+                   }
+                   .dying7{
+                    box-shadow: 10px 10px #43393b;
+                    text-align: center;
+                    border-color: ;
+                    background-color: #88a8ec;
+                    border-radius: 50px 0px;
+                    margin: 30px;
+                    }
      
-    .dying4{
-        text-align: center;
-        border-color: ;
-        background-color: #b6c099;
-        border-radius: 50px 0px;
-        margin: 30px;
-        }
-        .dying5{
-            text-align: center;
-            border-color: ;
-            background-color: #737764;
-            border-radius: 50px 0px;
-            margin: 30px;
-            }
-    .dying6{
-        text-align: center;
-        border-color: ;
-        background-color: #55594a;
-        border-radius: 50px 0px;
-        margin: 30px;
-        }
-        .dying7{
-            text-align: center;
-            border-color: ;
-            background-color: #55594a;
-            border-radius: 50px 0px;
-            margin: 30px;
-            }
-                 
